@@ -7,5 +7,7 @@ public class PruebaInt {
         int result = a + b;
 
         int d = 4;
+
+        int e = 5;
     }
 }
