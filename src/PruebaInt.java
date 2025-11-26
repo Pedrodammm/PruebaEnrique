@@ -8,6 +8,6 @@ public class PruebaInt {
 
         int d = 4;
 
-        int e = 5;
+        int e = 6;
     }
 }
